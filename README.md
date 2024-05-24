@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Junior FullStack Developer </> from Venezuela</h3>
+<h3 align="center">A passionate Student Junior FullStack Developer </> from Venezuela</h3>
 
 - 👨‍💻 All of my projects are available at [building...](building...)
 
